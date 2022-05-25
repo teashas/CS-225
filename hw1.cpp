@@ -1,3 +1,20 @@
+/*******************************************************************************
+*  Saima Teasha
+*  CS225
+*  program HW1
+*
+*  In main, declare variables for two ints, called year and day, one double, 
+*  called pi, and two strings, called month and name – of the new string type
+*  in C++. Prompt for and read in today’s year and day of the month. 
+*  Prompt for and read in a number of the user’s choice and as much of pi as 
+*  they can remember. Prompt for and read in the name of this month, and the 
+*  user’s full name. Print out the day in the format: “May 14, 2019”. 
+*  Print out the value of pi to 3, 4, and 5 decimal places. 
+*  Print out a welcome to the user: “Welcome to CS125, full name!”. 
+*  Upgrade your program so it detects and reprompts for bad input for both 
+*  ints and the double. 
+*******************************************************************************/
+
 #include <iostream>
 #include <iomanip>
 #include <string>
